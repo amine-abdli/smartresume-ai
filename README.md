@@ -17,4 +17,4 @@ Paste your CV text and get professional suggestions, impactful phrases, and impr
 
 Tech Stack
 PHP · HTML · CSS · JS · OpenAI GPT-4o
-
+@ amine abdli
